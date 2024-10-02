@@ -1,0 +1,5 @@
+set ORIG := STGT FRAM MNCH;
+set DEST := HDB ULM NRB KNZ;
+set PROD := salt pepper chili;
+
+param supply (tr): STGT
